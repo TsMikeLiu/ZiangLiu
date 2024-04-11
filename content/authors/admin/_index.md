@@ -130,10 +130,10 @@ skills:
       #   description: ''
       #   percent: 100
       #   icon: movie
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       
 
 languages:
