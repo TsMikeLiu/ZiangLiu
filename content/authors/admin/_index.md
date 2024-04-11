@@ -113,7 +113,7 @@ skills:
       - name: Primiere
         description: ''
         percent: 95
-        icon: devicon/primiere  
+        icon: primiere  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
