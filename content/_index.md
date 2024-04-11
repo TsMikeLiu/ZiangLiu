@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/ZiangLiu_CV_0411
+        url: uploads/ZiangLiu_CV_0411.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
