@@ -122,10 +122,10 @@ skills:
         description: ''
         percent: 60
         icon: custom/basketball
-      - name: Badminton
+      - name: Swimming
         description: ''
         percent: 80
-        icon: custom/badminton
+        icon: custom/swim
       - name: Movies & TV-series
         description: ''
         percent: 100
