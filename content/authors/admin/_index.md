@@ -110,22 +110,31 @@ skills:
         description: ''
         percent: 75
         icon: devicon/photoshop  
+      - name: Primiere
+        description: ''
+        percent: 95
+        icon: devicon/primiere  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: basketball
+      - name: Badminton
         description: ''
         percent: 80
-        icon: camera
+        icon: badminton
+      - name: Movies & TV-series
+        description: ''
+        percent: 100
+        icon: movie
+      - name: Dogs
+        description: ''
+        percent: 100
+        icon: dog
+      
 
 languages:
   - name: English
