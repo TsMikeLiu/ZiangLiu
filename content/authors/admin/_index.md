@@ -133,7 +133,7 @@ skills:
       - name: Dogs
         description: ''
         percent: 100
-        icon: fas/dog
+        icon: far/dog
       
 
 languages:
