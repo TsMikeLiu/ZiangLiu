@@ -36,28 +36,26 @@ profiles:
     url: https://www.linkedin.com/in/ziang-liu-a6904a278/
 
 education:
-  - area: Master Data Science (Smart Grid Lab)
-    institution: Tsinghua University
-    date_start: 2022-08-30
-    date_end: 2025-7-30
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.81/4.0
-
-      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) \& [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper \& 3 conference papers)
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BEng Electrical Engineering
-    institution: Tsinghua University
-    date_start: 2018-07-30
-    date_end: 2022-7-30
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.47/4.0
-      
+      GPA: 3.8/4.0
+
       Courses included:
-      - Power System Analysis, Power Electronics, Automatic Control Theory
-      - Principle of Circuits, Analog and Digital Electronics, Electric Machinery Fundamentals, Electromagnetic Fields,
-      - Fundamentals of Analog Electronics, Digital Electronics, Signals and Systems
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
