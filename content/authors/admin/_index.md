@@ -43,7 +43,7 @@ education:
     summary: |
       GPA: 3.81/4.0
 
-      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) & [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper & 3 conference papers)
+      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) \& [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper \& 3 conference papers)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
