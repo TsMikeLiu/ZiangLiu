@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘子昂
+title: Ziang Liu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -10,19 +10,19 @@ first_name: Ziang
 last_name: Liu
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
