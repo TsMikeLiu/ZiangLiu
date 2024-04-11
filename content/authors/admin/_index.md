@@ -154,14 +154,14 @@ languages:
 awards:
   - title: Post-disaster Load Restoration Considering Coupling Between Cyber and Physical Systems
     url: https://ieeexplore.ieee.org/document/10492470
-    # date: 'June 2023 - March 2024'
+    date: '2024-04-05'
     awarder: Tsinghua University
     # icon: custom/tsinghua1
     summary: |
       I proposed a post-disaster robust restoration scheme for active distribution network considering rerouting process of cyber system with 5G. The innovation of this work lies in the full utilization of 5G networks, complemented by a novel rerouting process, which reconnects offline cyber devices after disasters.
   - title: Distributionally Robust Dynamic Microgrid Formation
     url: ''
-    # date: 'September 2023 - November 2023'
+    date: '2024-01-05'
     awarder: Tsinghua University
     # icon: custom/tsinghua1
     summary: |
@@ -169,7 +169,7 @@ awards:
   - title: 'Advanced Power Network Analysis'
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
-    # date: 'September'
+    date: '2024-01-05'
     awarder: Tsinghua University
     # icon: custom/tsinghua1
     summary: |
