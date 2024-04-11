@@ -104,7 +104,7 @@ skills:
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 30
         icon: devicon/pytorch
       - name: Photoshop
         description: ''
@@ -118,14 +118,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      # - name: Basketball
-      #   description: ''
-      #   percent: 60
-      #   icon: basketball
-      # - name: Badminton
-      #   description: ''
-      #   percent: 80
-      #   icon: badminton
+      - name: Basketball
+        description: ''
+        percent: 60
+        icon: custom/basketball
+      - name: Badminton
+        description: ''
+        percent: 80
+        icon: custom/badminton
       - name: Movies & TV-series
         description: ''
         percent: 100
