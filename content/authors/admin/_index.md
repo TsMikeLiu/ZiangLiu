@@ -28,49 +28,36 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'liuziang1119@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/TsMikeLiu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/ziang-liu-a6904a278/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master Data Science (Smart Grid Lab)
+    institution: Tsinghua University
+    date_start: 2022-08-30
+    date_end: 2025-7-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.81/4.0
+
+      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) & [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper & 3 conference papers)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Electrical Engineering
+    institution: Tsinghua University
+    date_start: 2018-07-30
+    date_end: 2022-7-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.47/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Power System Analysis, Power Electronics, Automatic Control Theory
+      - Principle of Circuits, Analog and Digital Electronics, Electric Machinery Fundamentals, Electromagnetic Fields,
+      - Fundamentals of Analog Electronics, Digital Electronics, Signals and Systems
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
