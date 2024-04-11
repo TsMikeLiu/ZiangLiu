@@ -36,12 +36,14 @@ profiles:
     url: https://www.linkedin.com/in/ziang-liu-a6904a278/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master Data Science (Smart Grid Lab)
+    institution: Tsinghua University
+    date_start: 2022-08-30
+    date_end: 2025-07-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.81/4.0
+
+      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) & [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper & 3 conference papers)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
