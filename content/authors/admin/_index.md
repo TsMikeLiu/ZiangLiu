@@ -113,7 +113,7 @@ skills:
       - name: Primiere
         description: ''
         percent: 95
-        icon: primiere
+        icon: custom/primiere
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,7 +133,7 @@ skills:
       - name: Dogs
         description: ''
         percent: 100
-        icon: dog
+        icon: custom/dog
       
 
 languages:
