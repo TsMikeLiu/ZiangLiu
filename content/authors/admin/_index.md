@@ -94,18 +94,22 @@ education:
 skills:
   - name: Technical Skills
     items:
+      - name: Matlab
+        description: ''
+        percent: 95
+        icon: devicon/matlab
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
       - name: PyTorch
         description: ''
         percent: 40
         icon: devicon/pytorch
+      - name: Photoshop
+        description: ''
+        percent: 75
+        icon: devicon/photoshop  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
