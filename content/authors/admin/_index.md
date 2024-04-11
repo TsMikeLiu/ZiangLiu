@@ -29,14 +29,18 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'liuziang1119@163.com'
-    label: E-mail Me
+    label: liuziang1119@163.com
   - icon: brands/github
     url: https://github.com/TsMikeLiu
+    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ziang-liu-a6904a278/
-
+    label: Linkedin
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?hl=zh-CN&user=QKl2FdsAAAAJ
+    label: Google Scholar
 education:
-  - area: Master Data Science (Smart Grid Lab)
+  - area: Master. Data Science (Smart Grid Lab)
     institution: Tsinghua University
     date_start: 2022-08-30
     date_end: 2025-07-30
@@ -54,7 +58,7 @@ education:
       [C2] X. Tian, S. Chen, H. Rao, Z. Liu, X. Shen, “Two-stage Day-ahead and Intra-day Peak Shaving Strategy Considering Flexible Loads Resources”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
 
       [C3] L. Zhang, H. Rao, S. Chen, W. Zheng, X. Shen, Z. Liu, “A Flexibility Assessment Method for Active Distribution System considering Time-Coupling Constraints”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
-  - area: BEng Electrical Engineering
+  - area: BEng. Electrical Engineering
     institution: Tsinghua University
     date_start: 2018-07-30
     date_end: 2022-07-30
@@ -148,23 +152,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Post-disaster Load Restoration Considering Coupling Between Cyber and Physical Systems
+    url: https://ieeexplore.ieee.org/document/10492470
+    date: 'June 2023 - March 2024'
+    awarder: Tsinghua University
+    icon: custom/Tsinghua
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I proposed a post-disaster robust restoration scheme for active distribution network considering rerouting process of cyber system with 5G. The innovation of this work lies in the full utilization of 5G networks, complemented by a novel rerouting process, which reconnects offline cyber devices after disasters.
+  - title: Distributionally Robust Dynamic Microgrid Formation
+    url: ''
+    date: 'September 2023 - November 2023'
+    awarder: Tsinghua University
+    icon: custom/Tsinghua
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I proposed a distributionally robust dynamic microgrid formation approach to pro-actively partion the distribution network into networked microgrids before the disasters under extreme conditions. The innovation of this work lies in the employment of DRO on the uncertainty of line failure probability regarding the worst-case distribution of contingencies.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
@@ -175,4 +176,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I received the B.Eng. degree from the Department of Electrical Engineering, Tsinghua University, Beijing, China, in 2022. He is currently pursuing a Master's degree at Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, Tsinghua University. His research interests include power system resilience, cyber-physical systems, and power distribution system optimization with renewables.
+I received the B.Eng. degree from the Department of Electrical Engineering, Tsinghua University, Beijing, China, in 2022. I am currently pursuing a Master's degree at Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, Tsinghua University. My research interests include power system resilience, cyber-physical systems, and power distribution system optimization with renewables.
