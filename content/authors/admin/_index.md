@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 刘子昂
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Ziang Liu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Ziang
-last_name: Liu
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,86 +17,83 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student 
+role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
+  - name: GenCoin
+    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'liuziang1119@163.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/TsMikeLiu
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/ziang-liu-a6904a278/
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+    url: https://www.linkedin.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
 
 education:
-  - area: Master Data Science (Smart Grid Lab)
-    institution: Tsinghua University
-    date_start: 2022-08-30
-    date_end: 2025-7-30
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.81/4.0
-
-      Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) & [Prof Xinwei Shen](https://xinweishen.com/). Presented 4 papers (1 journal paper & 3 conference papers)
-  # at 3 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng Electrical Engineering
-    institution: Tsinghua University
-    date_start: 2018-07-30
-    date_end: 2022-7-30
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.47/4.0
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
       Courses included:
-      - Power System Analysis, Power Electronics, Automatic Control Theory
-      - Principle of Circuits, Analog and Digital Electronics, Electric Machinery Fundamentals, Electromagnetic Fields,
-      - Fundamentals of Analog Electronics, Digital Electronics, Signals and Systems
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,11 +131,11 @@ skills:
 
 languages:
   - name: English
-    percent: 75
-  - name: Chinese
     percent: 100
-  # - name: Portuguese
-  #   percent: 25
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
