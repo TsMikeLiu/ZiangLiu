@@ -47,9 +47,12 @@ education:
       
       Presented 4 papers (1 journal paper & 3 conference papers)
 
-      [J1] Z. Liu, Q. Wu, X. Shen, J. Tan, X. Zhang, “Post-disaster Robust Restoration Scheme for Distribution Network Considering Rerouting Process of Cyber System with 5G”, IEEE Transactions on Smart Grid (TSG), 2023, Accepted, IF=9.6
+      [[J1]](https://ieeexplore.ieee.org/document/10492470) Z. Liu, Q. Wu, X. Shen, J. Tan, X. Zhang, “Post-disaster Robust Restoration Scheme for Distribution Network Considering Rerouting Process of Cyber System with 5G”, IEEE Transactions on Smart Grid (TSG), 2023, Accepted, IF=9.6
+
       [C1] Z. Liu, S. Cai, Q. Wu, X. Shen, X. Zhang, Nikos Hatziargyriou, “Dynamic Microgrid Formation Considering Time-dependent Contingency: A Distributionally Robust Approach”, 2024 IEEE Power Energy Society General Meeting (PESGM), Seattle, USA, 2024, Accepted
+
       [C2] X. Tian, S. Chen, H. Rao, Z. Liu, X. Shen, “Two-stage Day-ahead and Intra-day Peak Shaving Strategy Considering Flexible Loads Resources”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
+
       [C3] L. Zhang, H. Rao, S. Chen, W. Zheng, X. Shen, Z. Liu, “A Flexibility Assessment Method for Active Distribution System considering Time-Coupling Constraints”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
       
     button:
