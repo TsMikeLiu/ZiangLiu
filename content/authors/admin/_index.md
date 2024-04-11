@@ -156,22 +156,22 @@ awards:
     url: https://ieeexplore.ieee.org/document/10492470
     # date: 'June 2023 - March 2024'
     awarder: Tsinghua University
-    icon: custom/Tsinghua
+    icon: custom/tsinghua
     summary: |
       I proposed a post-disaster robust restoration scheme for active distribution network considering rerouting process of cyber system with 5G. The innovation of this work lies in the full utilization of 5G networks, complemented by a novel rerouting process, which reconnects offline cyber devices after disasters.
   - title: Distributionally Robust Dynamic Microgrid Formation
     url: ''
     # date: 'September 2023 - November 2023'
     awarder: Tsinghua University
-    icon: custom/Tsinghua
+    icon: custom/tsinghua
     summary: |
       I proposed a distributionally robust dynamic microgrid formation approach to pro-actively partion the distribution network into networked microgrids before the disasters under extreme conditions. The innovation of this work lies in the employment of DRO on the uncertainty of line failure probability regarding the worst-case distribution of contingencies.
   - title: 'Advanced Power Network Analysis'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
     # date: 'September'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Tsinghua University
+    icon: custom/Tsinghua
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
