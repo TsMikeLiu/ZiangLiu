@@ -156,14 +156,14 @@ awards:
     url: https://ieeexplore.ieee.org/document/10492470
     # date: 'June 2023 - March 2024'
     awarder: Tsinghua University
-    icon: custom/tslogo
+    icon: custom/tsinghua1
     summary: |
       I proposed a post-disaster robust restoration scheme for active distribution network considering rerouting process of cyber system with 5G. The innovation of this work lies in the full utilization of 5G networks, complemented by a novel rerouting process, which reconnects offline cyber devices after disasters.
   - title: Distributionally Robust Dynamic Microgrid Formation
     url: ''
     # date: 'September 2023 - November 2023'
     awarder: Tsinghua University
-    icon: custom/tslogo
+    icon: custom/tsinghua1
     summary: |
       I proposed a distributionally robust dynamic microgrid formation approach to pro-actively partion the distribution network into networked microgrids before the disasters under extreme conditions. The innovation of this work lies in the employment of DRO on the uncertainty of line failure probability regarding the worst-case distribution of contingencies.
   - title: 'Advanced Power Network Analysis'
@@ -171,7 +171,7 @@ awards:
     # certificate_url: https://www.datacamp.com
     # date: 'September'
     awarder: Tsinghua University
-    icon: custom/tslogo
+    icon: custom/tsinghua1
     summary: |
       I am the Teaching Assistant of this course. I am responsible for assigning & grading homework, upload answer and codes in Github, Q&A, design & grading final exam.
 
