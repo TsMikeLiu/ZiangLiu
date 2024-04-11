@@ -126,14 +126,14 @@ skills:
       #   description: ''
       #   percent: 80
       #   icon: badminton
-      # - name: Movies & TV-series
-      #   description: ''
-      #   percent: 100
-      #   icon: movie
+      - name: Movies & TV-series
+        description: ''
+        percent: 100
+        icon: hero/film
       - name: Dogs
         description: ''
         percent: 100
-        icon: far/dog
+        icon: dog
       
 
 languages:
