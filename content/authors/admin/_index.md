@@ -113,7 +113,7 @@ skills:
       - name: Primiere
         description: ''
         percent: 95
-        icon: primiere  
+        icon: assets/media/icons/primiere.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,11 +138,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -176,4 +175,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I received the B.Eng. degree from the Department of Electrical Engineering, Tsinghua University, Beijing, China, in 2022. He is currently pursuing a Master's degree at Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, Tsinghua University. His research interests include power system resilience, cyber-physical systems, and power distribution system optimization with renewables.
