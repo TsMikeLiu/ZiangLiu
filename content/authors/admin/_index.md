@@ -54,21 +54,17 @@ education:
       [C2] X. Tian, S. Chen, H. Rao, Z. Liu, X. Shen, “Two-stage Day-ahead and Intra-day Peak Shaving Strategy Considering Flexible Loads Resources”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
 
       [C3] L. Zhang, H. Rao, S. Chen, W. Zheng, X. Shen, Z. Liu, “A Flexibility Assessment Method for Active Distribution System considering Time-Coupling Constraints”, 2023 IEEE 7th Conference on Energy Internet and Energy System Integration (EI2), Hangzhou, China, 2023, Accepted
-      
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Electrical Engineering
+    institution: Tsinghua University
+    date_start: 2018-07-30
+    date_end: 2022-7-30
     summary: |
-      GPA: 3.8/4.0
-
+      GPA: 3.47/4.0
+      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Power System Analysis, Power Electronics, Automatic Control Theory
+      - Principle of Circuits, Analog and Digital Electronics, Electric Machinery Fundamentals, Electromagnetic Fields,
+      - Fundamentals of Analog Electronics, Digital Electronics, Signals and Systems
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
