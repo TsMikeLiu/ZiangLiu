@@ -159,6 +159,8 @@ awards:
     # icon: custom/tsinghua1
     summary: |
       I proposed a post-disaster robust restoration scheme for active distribution network considering rerouting process of cyber system with 5G. The innovation of this work lies in the full utilization of 5G networks, complemented by a novel rerouting process, which reconnects offline cyber devices after disasters.
+
+      Finish a journal paper, and accepted by IEEE Transactions on Smart Grid.
   - title: Distributionally Robust Dynamic Microgrid Formation
     url: ''
     date: '2024-01-05'
@@ -166,6 +168,8 @@ awards:
     # icon: custom/tsinghua1
     summary: |
       I proposed a distributionally robust dynamic microgrid formation approach to pro-actively partion the distribution network into networked microgrids before the disasters under extreme conditions. The innovation of this work lies in the employment of DRO on the uncertainty of line failure probability regarding the worst-case distribution of contingencies.
+
+      Finish a conference paper, and accepted by PES General Meeting.
   - title: 'Advanced Power Network Analysis'
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
