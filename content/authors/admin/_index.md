@@ -118,22 +118,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Basketball
-        description: ''
-        percent: 60
-        icon: basketball
-      - name: Badminton
-        description: ''
-        percent: 80
-        icon: badminton
-      - name: Movies & TV-series
+      # - name: Basketball
+      #   description: ''
+      #   percent: 60
+      #   icon: basketball
+      # - name: Badminton
+      #   description: ''
+      #   percent: 80
+      #   icon: badminton
+      # - name: Movies & TV-series
+      #   description: ''
+      #   percent: 100
+      #   icon: movie
+      - name: Cats
         description: ''
         percent: 100
-        icon: movie
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
+        icon: cat
       
 
 languages:
