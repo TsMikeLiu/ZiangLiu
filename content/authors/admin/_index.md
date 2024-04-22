@@ -48,6 +48,8 @@ education:
       GPA: 3.81/4.0
 
       Supervised by [Prof Qiuwei Wu](https://scholar.google.com/citations?user=LLit50EAAAAJ&hl=en) & [Prof Xinwei Shen](https://xinweishen.com/). 
+
+      IELTS: 7.5
       
       Presented 4 papers (1 journal paper & 3 conference papers)
 
